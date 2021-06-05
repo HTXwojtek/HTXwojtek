@@ -7,7 +7,7 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 # My stats
   
 <!--[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)-->
-[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&theme=radical](https://github.com/anuraghazra/github-readme-stats)
+[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek?theme=radical](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -29,7 +29,7 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 
 # How to reach me
 
-- [Discord](https://discord.com/users/591899182793621527) or add me `HTXwojtek#2113`
+- [Click here](https://discord.com/users/591899182793621527) or add me `HTXwojtek#2113`
 
 
 
