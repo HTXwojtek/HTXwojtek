@@ -6,7 +6,7 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 
 # My stats
 [![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)
-<!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true)-->
+<!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true)--->
 
 
 
