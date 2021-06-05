@@ -7,19 +7,13 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 # My stats
   
 <!--[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)-->
-![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=radical)
+![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
 
-
-
-
-
-
-<!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true)-->
 
 
 <!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXalpha&show_icons=true&theme=radical)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXalpha)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Projects
