@@ -9,14 +9,12 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 <!--[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)-->
 ![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
 
-<h2>Languages i use:<h2>
 <!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXalpha&show_icons=true&theme=radical)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXalpha)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <h2>My skills<h2>
-
- ![image](https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png width="200" height="400")
+<img src="https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png" width="200" height="400" />
 
 
 
