@@ -15,7 +15,8 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)<!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ### My skills:
-<img src="https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930393-59bc6600-c6ed-11eb-8dac-943e1499c20b.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930424-76589e00-c6ed-11eb-9618-07cf4ae1cfe4.png" width="50" height="50" /> 
+<img src="https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930393-59bc6600-c6ed-11eb-8dac-943e1499c20b.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930661-9046b080-c6ee-11eb-866e-9bc13f315873.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930424-76589e00-c6ed-11eb-9618-07cf4ae1cfe4.png" width="50" height="50" /> 
+
 
 
 
