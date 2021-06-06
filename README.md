@@ -1,7 +1,6 @@
-# 👋 Hi, I’m @HTXwojtek
+### 👋 Hi, I’m HTXwojtek
 
 Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy to do it!
-
 
 
 ### My stats:
@@ -9,7 +8,7 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 <!--[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)-->
 ![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
 
-### Languages I use
+### Languages I use:
 
 <!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXalpha&show_icons=true&theme=radical)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXalpha)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -20,7 +19,7 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 
 
 
-### My projects
+### My projects:
 
 * [Simple discord verification bot](https://github.com/HTXwojtek/Simple-Discord-verification-bot)
 * More coming soon...
