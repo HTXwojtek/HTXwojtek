@@ -4,15 +4,13 @@ Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy 
 
 
 ### My stats:
-  
-<!--[![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek)](https://github.com/anuraghazra/github-readme-stats)-->
-![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
+![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&bg_color=111111&border_radius=35&hide_border=false&border_color=817dff&title_color=817dff&text_color=5c5a91&show_icons=true&icon_color=5c5a91)
+<!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark) i used this one-->
 
 ### Languages I use:
 
-<!--![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXalpha&show_icons=true&theme=radical)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXalpha)](https://github.com/anuraghazra/github-readme-stats)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)<!--(https://github.com/anuraghazra/github-readme-stats)-->
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&bg_color=111111&border_radius=35&hide_border=false&border_color=817dff&title_color=817dff&text_color=5c5a91&show_icons=true&icon_color=5c5a91)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)i use this one--><!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ### My skills:
 <img src="https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930661-9046b080-c6ee-11eb-866e-9bc13f315873.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930393-59bc6600-c6ed-11eb-8dac-943e1499c20b.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930735-d26ff200-c6ee-11eb-9207-e7f76c34d138.png" width="50" height="50" />  <img src="https://user-images.githubusercontent.com/75257323/120930765-f7fcfb80-c6ee-11eb-86f6-7e2f3f06ee2a.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930424-76589e00-c6ed-11eb-9618-07cf4ae1cfe4.png" width="50" height="50" />
