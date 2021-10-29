@@ -36,7 +36,7 @@
 ![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
 
 <!-- ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&bg_color=111111&border_radius=35&hide_border=false&border_color=817dff&title_color=817dff&text_color=5c5a91&show_icons=true&icon_color=5c5a91) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark) -->
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- ### My skills:
