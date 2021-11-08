@@ -2,6 +2,7 @@
 
 **Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy to do it!**
 
+![Visitor](https://komarev.com/ghpvc/?username=HTXwojtek)
 ### Tools i use:
 ![VSCodes](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
@@ -48,4 +49,5 @@
 * [Simple discord verification bot](https://github.com/HTXwojtek/Simple-Discord-verification-bot)
 * More coming soon...
  -->
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HTXwojtek.HTXwojtek&title=Views)
+<!--  ![Visitor](https://komarev.com/ghpvc/?username=HTXwojtek) -->
+ <!-- https://visitor-badge.laobi.icu/badge?page_id=HTXwojtek.HTXwojtek&title=Views -->
