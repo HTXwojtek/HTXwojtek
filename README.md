@@ -48,4 +48,4 @@
 * [Simple discord verification bot](https://github.com/HTXwojtek/Simple-Discord-verification-bot)
 * More coming soon...
  -->
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=.HTXwojtek&title=Views)
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=HTXwojtek.HTXwojtek&title=Views)
