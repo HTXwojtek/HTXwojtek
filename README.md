@@ -29,25 +29,4 @@
 [![Discord](https://img.shields.io/badge/Discord-5764F4?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/591899182793621527)
 [![Github](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HTXwojtek)
 [![Email](https://img.shields.io/badge/e‑mail-red.svg?style=for-the-badge&logo=GMail&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<!-- coming soon! [![Website](https://img.shields.io/badge/Website-181717?&style=for-the-badge&logo=Slashdot&logoColor=white)](https://ebaa.dev/) -->
-
-
-### My stats:
-<!-- ![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&bg_color=111111&border_radius=35&hide_border=false&border_color=817dff&title_color=817dff&text_color=5c5a91&show_icons=true&icon_color=5c5a91) -->
-![HTXwojtek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HTXwojtek&show_icons=true&theme=onedark)
-
-<!-- ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&bg_color=111111&border_radius=35&hide_border=false&border_color=817dff&title_color=817dff&text_color=5c5a91&show_icons=true&icon_color=5c5a91) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTXwojtek&layout=compact&theme=onedark) -->
-<!--(https://github.com/anuraghazra/github-readme-stats)-->
-
-<!-- ### My skills:
-<img src="https://user-images.githubusercontent.com/75257323/120930075-0a296a80-c6ec-11eb-9a9a-c7c930f51b75.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930661-9046b080-c6ee-11eb-866e-9bc13f315873.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930393-59bc6600-c6ed-11eb-8dac-943e1499c20b.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930735-d26ff200-c6ee-11eb-9207-e7f76c34d138.png" width="50" height="50" />  <img src="https://user-images.githubusercontent.com/75257323/120930765-f7fcfb80-c6ee-11eb-86f6-7e2f3f06ee2a.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/75257323/120930424-76589e00-c6ed-11eb-9618-07cf4ae1cfe4.png" width="50" height="50" />
- -->
-
-<!-- ### My projects:
-
-* [Simple discord verification bot](https://github.com/HTXwojtek/Simple-Discord-verification-bot)
-* More coming soon...
- -->
-<!--  ![Visitor](https://komarev.com/ghpvc/?username=HTXwojtek) -->
- <!-- https://visitor-badge.laobi.icu/badge?page_id=HTXwojtek.HTXwojtek&title=Views -->
+[![Website](https://img.shields.io/badge/Website-181717?&style=for-the-badge&logo=Slashdot&logoColor=white)](https://htxwojtek.pages.dev/)
