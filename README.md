@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m HTXwojtek
 
-**Hi there I'm 15 year old, self-thought frontend and backend dev. I really enjoy to do it!**
+**Self-thought frontend and backend dev. I really enjoy to do it!**
 
 ![Visitor](https://komarev.com/ghpvc/?username=HTXwojtek)
 ### Tools i use:
