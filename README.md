@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m HTXwojtek
 
-**Self-thought frontend and backend dev. I really enjoy to do it!**
+**Self-taught frontend and backend dev. I really enjoy to do it!**
 
 ![Visitor](https://komarev.com/ghpvc/?username=HTXwojtek)
 ### Tools i use:
@@ -26,7 +26,4 @@
 
 
 ### Where to find me:
-[![Discord](https://img.shields.io/badge/Discord-5764F4?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/591899182793621527)
-[![Github](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HTXwojtek)
-[![Email](https://img.shields.io/badge/e‑mail-red.svg?style=for-the-badge&logo=GMail&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Website](https://img.shields.io/badge/Website-181717?&style=for-the-badge&logo=Slashdot&logoColor=white)](https://htxwojtek.pages.dev/)
